@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shreyash3511
 - 👀 I’m interested in Devops engineer
-- 🌱 I’m currently learning EXTC engineering
-- 💞️ I’m looking to collaborate 
+- 🌱 I’m currently learning EXTC engineering 
 - 📫 Reach out to me on Gmail - patilshreyash92@gmail.com
 
 <!---
